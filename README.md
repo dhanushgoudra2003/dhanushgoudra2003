@@ -9,8 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 CSE Undergraduate
-- 🤖 Working on AI, Computer Vision & Generative AI
-- 🌐 Learning Full Stack (MERN)
+- 🤖 Working on AI & Generative AI
 - 📊 Interested in System Design & Scalable Systems
 - ⚡ Building cool real-world projects
 
