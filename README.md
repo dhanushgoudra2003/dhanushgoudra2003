@@ -2,9 +2,8 @@
 <h3 align="center">🚀 CSE Student | AI & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+  <img src="https://storyset.imgix.net/illustrations/developer_activity/bro.svg" width="300"/>
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
