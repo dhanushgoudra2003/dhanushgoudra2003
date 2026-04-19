@@ -2,7 +2,7 @@
 <h3 align="center">🚀 CSE Student | AI & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://storyset.imgix.net/illustrations/developer_activity/bro.svg" width="300"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300"/>
 </p>
 ---
 
