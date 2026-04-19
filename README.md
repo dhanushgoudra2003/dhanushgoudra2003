@@ -2,7 +2,7 @@
 <h3 align="center">🚀 CSE Student | AI & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="300"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="300"/>
 </p>
 ---
 
